@@ -405,12 +405,12 @@
         <h2>📸 Galería del Personaje</h2>
         <div class="image-gallery">
           <div class="image-container">
-            <img src="dama.png" alt="La Dama de Negro - Personaje">
+            <img src="dama.JPEG" alt="La Dama de Negro - Personaje">
             <div class="image-label">👤 PERSONAJE</div>
           </div>
           
           <div class="image-container">
-            <img src="disf.png" alt="La Dama de Negro - Disfraz">
+            <img src="disf.JPEG" alt="La Dama de Negro - Disfraz">
             <div class="image-label">🎭 DISFRAZ</div>
           </div>
         </div>
